@@ -1,0 +1,144 @@
+{
+  "dataNote": "Data tempat, harga, dan jam operasional pada berkas ini merupakan contoh untuk praktikum Mobile Programming, bukan informasi tempat nyata.",
+  "places": [
+    {
+      "id": "sela-01",
+      "name": "Ruang Baca Arunika",
+      "area": "Lowokwaru",
+      "address": "Jl. Soekarno Hatta No. 12, Lowokwaru (alamat contoh)",
+      "description": "Ruang baca satu lantai dengan meja panjang menghadap jendela besar. Pencahayaan alami cukup untuk membaca dan mengetik tanpa lampu meja tambahan. Petugas menerapkan aturan minim percakapan, sehingga ruangan tetap sunyi meski kursi terisi.",
+      "atmosphere": "Tenang, minim percakapan",
+      "studyModes": ["fokus"],
+      "modeNotes": {
+        "fokus": "Cocok untuk mengerjakan tugas yang butuh konsentrasi panjang; setiap meja memiliki stopkontak sendiri."
+      },
+      "facilities": ["wifi", "stopkontak", "ac", "ruang_tenang"],
+      "priceMin": 0,
+      "priceMax": 15000,
+      "openingHours": "Senin–Sabtu, 08.00–21.00 (contoh)",
+      "imageAsset": "assets/images/reading_room.jpg"
+    },
+    {
+      "id": "sela-02",
+      "name": "Kopi Teduh Sigura-gura",
+      "area": "Sigura-gura",
+      "address": "Jl. Sigura-gura Barat No. 4 (alamat contoh)",
+      "description": "Kafe kecil dengan meja kayu dan colokan di sepanjang dinding. Musik diputar pelan pada sore hari, dan area belakang dipakai mahasiswa untuk berdiskusi kelompok kecil sambil memesan minuman.",
+      "atmosphere": "Hangat, suara percakapan rendah",
+      "studyModes": ["fokus", "diskusi"],
+      "modeNotes": {
+        "fokus": "Meja dekat jendela cukup tenang untuk membaca; hindari jam makan siang bila butuh suasana sunyi.",
+        "diskusi": "Area belakang menampung empat sampai enam orang dengan satu meja panjang."
+      },
+      "facilities": ["wifi", "stopkontak", "kopi", "meja_besar"],
+      "priceMin": 15000,
+      "priceMax": 35000,
+      "openingHours": "Setiap hari, 10.00–23.00 (contoh)",
+      "imageAsset": "assets/images/cafe_window.jpg"
+    },
+    {
+      "id": "sela-03",
+      "name": "Pojok Literasi Dinoyo",
+      "area": "Dinoyo",
+      "address": "Jl. MT Haryono No. 88, Dinoyo (alamat contoh)",
+      "description": "Perpustakaan komunitas dengan rak buku setinggi ruangan dan meja baca berlapis kain. Tempat ini paling ramai pada sore hari, tetapi area baca belakang biasanya tetap lengang.",
+      "atmosphere": "Sunyi, beraroma buku",
+      "studyModes": ["fokus"],
+      "modeNotes": {
+        "fokus": "Area baca belakang memiliki sekat rendah yang mengurangi pandangan ke lorong."
+      },
+      "facilities": ["wifi", "ruang_tenang", "ac", "parkir"],
+      "priceMin": 5000,
+      "priceMax": 12000,
+      "openingHours": "Senin–Jumat, 09.00–18.00 (contoh)",
+      "imageAsset": "assets/images/library_nook.jpg"
+    },
+    {
+      "id": "sela-04",
+      "name": "Studio Kolaborasi Soekarno",
+      "area": "Soekarno Hatta",
+      "address": "Jl. Soekarno Hatta No. 45, lantai 2 (alamat contoh)",
+      "description": "Ruang kerja bersama dengan meja bundar besar dan papan tulis dinding. Dipakai untuk rapat kelompok, kerja proyek, dan sesi belajar bersama. Pencahayaan putih dan lantai kayu membuat ruangan terasa lapang.",
+      "atmosphere": "Ramai terkendali, produktif",
+      "studyModes": ["diskusi"],
+      "modeNotes": {
+        "diskusi": "Tersedia meja bundar untuk enam orang, papan tulis, dan layar yang bisa dibagi untuk laptop."
+      },
+      "facilities": ["wifi", "stopkontak", "meja_besar", "ac", "parkir"],
+      "priceMin": 20000,
+      "priceMax": 45000,
+      "openingHours": "Senin–Sabtu, 08.00–22.00 (contoh)",
+      "imageAsset": "assets/images/coworking_group.jpg"
+    },
+    {
+      "id": "sela-05",
+      "name": "Aula Komputer Merjosari",
+      "area": "Merjosari",
+      "address": "Jl. Joyo Agung No. 7, Merjosari (alamat contoh)",
+      "description": "Aula dengan deretan komputer dan meja panjang yang dapat dipakai bergantian. Suasana berfokus pada kerja individu, dengan kipas langit-langit dan jendela sempit di sisi kanan ruangan.",
+      "atmosphere": "Netral, banyak aktivitas mengetik",
+      "studyModes": ["fokus"],
+      "modeNotes": {
+        "fokus": "Cocok untuk mengerjakan koding atau tugas mengetik karena meja lebar dan kursi bersandar tinggi."
+      },
+      "facilities": ["wifi", "stopkontak", "ac", "parkir"],
+      "priceMin": 8000,
+      "priceMax": 20000,
+      "openingHours": "Senin–Sabtu, 07.30–20.00 (contoh)",
+      "imageAsset": "assets/images/computer_hall.jpg"
+    },
+    {
+      "id": "sela-06",
+      "name": "Teras Baca Ijen",
+      "area": "Ijen",
+      "address": "Jl. Ijen No. 21 (alamat contoh)",
+      "description": "Ruang baca dengan jendela tinggi dan sofa di sisi ruangan. Bagian depan dipakai untuk diskusi santai, sedangkan meja panjang di dekat jendela lebih sering dipakai untuk belajar sendiri.",
+      "atmosphere": "Terang, santai",
+      "studyModes": ["fokus", "diskusi"],
+      "modeNotes": {
+        "fokus": "Meja dekat jendela menghadap halaman, cukup terang pada pagi sampai sore.",
+        "diskusi": "Sofa dan meja rendah di bagian depan memudahkan percakapan kelompok kecil."
+      },
+      "facilities": ["wifi", "stopkontak", "kopi", "meja_besar"],
+      "priceMin": 10000,
+      "priceMax": 30000,
+      "openingHours": "Setiap hari, 09.00–22.00 (contoh)",
+      "imageAsset": "assets/images/window_lounge.jpg"
+    },
+    {
+      "id": "sela-07",
+      "name": "Ruang Kerja Bersama Klojen",
+      "area": "Klojen",
+      "address": "Jl. Semeru No. 3, Klojen (alamat contoh)",
+      "description": "Ruang kerja bersama dengan meja komunal panjang dan kursi ergonomis. Banyak dipakai untuk kerja kelompok karena meja dapat digabung, dan tersedia area istirahat di ujung ruangan.",
+      "atmosphere": "Rapi, terang, sedikit bergema",
+      "studyModes": ["diskusi"],
+      "modeNotes": {
+        "diskusi": "Meja komunal dapat digabung untuk delapan orang; ruangan sedikit bergema sehingga suara percakapan terdengar jelas."
+      },
+      "facilities": ["wifi", "stopkontak", "meja_besar", "ac", "kopi"],
+      "priceMin": 25000,
+      "priceMax": 50000,
+      "openingHours": "Senin–Jumat, 08.00–20.00 (contoh)",
+      "imageAsset": "assets/images/coworking_light.jpg"
+    },
+    {
+      "id": "sela-08",
+      "name": "Perpustakaan Cahaya Tlogomas",
+      "area": "Tlogomas",
+      "address": "Jl. Raya Tlogomas No. 56 (alamat contoh)",
+      "description": "Perpustakaan dengan jendela besar dan meja kayu memanjang. Lantai dua dipakai untuk belajar mandiri, sedangkan meja bundar di lantai satu sering dipakai diskusi kelompok setelah jam kuliah.",
+      "atmosphere": "Tenang, bercahaya alami",
+      "studyModes": ["fokus", "diskusi"],
+      "modeNotes": {
+        "fokus": "Lantai dua menerapkan aturan tanpa percakapan dan memiliki meja individu.",
+        "diskusi": "Meja bundar lantai satu dapat dipakai kelompok kecil tanpa mengganggu area baca."
+      },
+      "facilities": ["wifi", "stopkontak", "ruang_tenang", "meja_besar", "parkir"],
+      "priceMin": 0,
+      "priceMax": 10000,
+      "openingHours": "Senin–Sabtu, 08.00–19.00 (contoh)",
+      "imageAsset": "assets/images/sunlit_library.jpg"
+    }
+  ]
+}

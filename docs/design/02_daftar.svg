@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844" font-family="Inter, Segoe UI, sans-serif">
+  <title>Sela — Wireframe Daftar Tempat</title>
+  <rect width="390" height="844" fill="#FFFFFF"/>
+  <text x="24" y="30" font-size="11" fill="#8A8A8A">09:41</text>
+  <text x="342" y="30" font-size="11" fill="#8A8A8A">▮▮▮</text>
+
+  <!-- app bar -->
+  <line x1="24" y1="52" x2="36" y2="62" stroke="#1E4D3B" stroke-width="1.8"/>
+  <line x1="24" y1="72" x2="36" y2="62" stroke="#1E4D3B" stroke-width="1.8"/>
+  <rect x="52" y="56" width="96" height="12" rx="3" fill="#D9D9D9"/>
+
+  <!-- search with applied keyword -->
+  <rect x="24" y="86" width="342" height="52" rx="12" fill="none" stroke="#1E4D3B" stroke-width="1.6"/>
+  <circle cx="48" cy="112" r="7" fill="none" stroke="#1E4D3B" stroke-width="1.5"/>
+  <line x1="53" y1="117" x2="58" y2="122" stroke="#1E4D3B" stroke-width="1.5"/>
+  <rect x="66" y="107" width="96" height="10" rx="3" fill="#C9D6CE"/>
+  <circle cx="336" cy="112" r="11" fill="#F0F0F0"/>
+  <line x1="332" y1="108" x2="340" y2="116" stroke="#8A8A8A" stroke-width="1.5"/>
+  <line x1="340" y1="108" x2="332" y2="116" stroke="#8A8A8A" stroke-width="1.5"/>
+
+  <!-- filter toggle + reset -->
+  <rect x="24" y="150" width="74" height="26" rx="6" fill="none" stroke="#CFCFCF"/>
+  <rect x="36" y="159" width="50" height="8" rx="3" fill="#D9D9D9"/>
+  <rect x="292" y="150" width="74" height="26" rx="6" fill="none" stroke="#CFCFCF"/>
+  <rect x="304" y="159" width="50" height="8" rx="3" fill="#C9D6CE"/>
+
+  <!-- filter panel (expanded) -->
+  <rect x="24" y="188" width="342" height="150" rx="12" fill="#FBFBFB" stroke="#EDEDED"/>
+  <rect x="36" y="200" width="58" height="8" rx="3" fill="#D9D9D9"/>
+  <rect x="36" y="216" width="118" height="34" rx="17" fill="#1E4D3B"/>
+  <rect x="52" y="228" width="86" height="10" rx="3" fill="#7FA08E"/>
+  <rect x="162" y="216" width="132" height="34" rx="17" fill="none" stroke="#CFCFCF"/>
+  <rect x="178" y="228" width="100" height="10" rx="3" fill="#EDEDED"/>
+  <rect x="36" y="266" width="48" height="8" rx="3" fill="#D9D9D9"/>
+  <rect x="36" y="282" width="96" height="34" rx="17" fill="none" stroke="#CFCFCF"/>
+  <rect x="52" y="294" width="64" height="10" rx="3" fill="#EDEDED"/>
+  <rect x="140" y="282" width="112" height="34" rx="17" fill="none" stroke="#CFCFCF"/>
+  <rect x="156" y="294" width="80" height="10" rx="3" fill="#EDEDED"/>
+  <rect x="260" y="282" width="94" height="34" rx="17" fill="none" stroke="#CFCFCF"/>
+  <rect x="276" y="294" width="62" height="10" rx="3" fill="#EDEDED"/>
+
+  <!-- result header + sort -->
+  <rect x="24" y="358" width="128" height="12" rx="3" fill="#D9D9D9"/>
+  <rect x="272" y="350" width="94" height="30" rx="15" fill="none" stroke="#CFCFCF"/>
+  <rect x="284" y="360" width="70" height="10" rx="3" fill="#D9D9D9"/>
+
+  <!-- result cards -->
+  <rect x="24" y="396" width="342" height="112" rx="14" fill="none" stroke="#E0E0E0" stroke-width="1.5"/>
+  <rect x="36" y="408" width="88" height="88" rx="10" fill="#EFEFEF"/>
+  <line x1="36" y1="408" x2="124" y2="496" stroke="#E2E2E2"/>
+  <line x1="124" y1="408" x2="36" y2="496" stroke="#E2E2E2"/>
+  <rect x="140" y="412" width="150" height="13" rx="3" fill="#D9D9D9"/>
+  <rect x="140" y="436" width="80" height="9" rx="3" fill="#EDEDED"/>
+  <rect x="140" y="456" width="96" height="11" rx="3" fill="#C9D6CE"/>
+  <rect x="140" y="478" width="58" height="9" rx="3" fill="#EDEDED"/>
+  <rect x="206" y="478" width="62" height="9" rx="3" fill="#EDEDED"/>
+
+  <rect x="24" y="520" width="342" height="112" rx="14" fill="none" stroke="#E0E0E0" stroke-width="1.5"/>
+  <rect x="36" y="532" width="88" height="88" rx="10" fill="#EFEFEF"/>
+  <line x1="36" y1="532" x2="124" y2="620" stroke="#E2E2E2"/>
+  <line x1="124" y1="532" x2="36" y2="620" stroke="#E2E2E2"/>
+  <rect x="140" y="536" width="164" height="13" rx="3" fill="#D9D9D9"/>
+  <rect x="140" y="560" width="72" height="9" rx="3" fill="#EDEDED"/>
+  <rect x="140" y="580" width="104" height="11" rx="3" fill="#C9D6CE"/>
+  <rect x="140" y="602" width="58" height="9" rx="3" fill="#EDEDED"/>
+  <rect x="206" y="602" width="62" height="9" rx="3" fill="#EDEDED"/>
+
+  <rect x="24" y="644" width="342" height="112" rx="14" fill="none" stroke="#E0E0E0" stroke-width="1.5"/>
+  <rect x="36" y="656" width="88" height="88" rx="10" fill="#EFEFEF"/>
+  <line x1="36" y1="656" x2="124" y2="744" stroke="#E2E2E2"/>
+  <line x1="124" y1="656" x2="36" y2="744" stroke="#E2E2E2"/>
+  <rect x="140" y="660" width="140" height="13" rx="3" fill="#D9D9D9"/>
+  <rect x="140" y="684" width="86" height="9" rx="3" fill="#EDEDED"/>
+  <rect x="140" y="704" width="88" height="11" rx="3" fill="#C9D6CE"/>
+  <rect x="140" y="726" width="58" height="9" rx="3" fill="#EDEDED"/>
+  <rect x="206" y="726" width="62" height="9" rx="3" fill="#EDEDED"/>
+
+  <text x="24" y="786" font-size="10" fill="#9A9A9A">1 pencarian aktif · 2 filter suasana · 3 filter fasilitas · 4 pengurutan</text>
+  <text x="24" y="802" font-size="10" fill="#9A9A9A">5 jumlah hasil · 6 kartu: foto, nama, area, biaya, fasilitas</text>
+  <text x="24" y="818" font-size="10" fill="#9A9A9A">Keadaan kosong: "Belum ada tempat yang cocok" + tombol hapus filter</text>
+</svg>

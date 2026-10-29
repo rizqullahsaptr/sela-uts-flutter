@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844" font-family="Inter, Segoe UI, sans-serif">
+  <title>Sela — Wireframe Beranda</title>
+  <rect width="390" height="844" fill="#FFFFFF"/>
+  <!-- status bar -->
+  <text x="24" y="30" font-size="11" fill="#8A8A8A">09:41</text>
+  <text x="342" y="30" font-size="11" fill="#8A8A8A">▮▮▮</text>
+
+  <!-- brand row -->
+  <rect x="24" y="52" width="34" height="34" rx="9" fill="none" stroke="#1E4D3B" stroke-width="1.5"/>
+  <text x="35" y="75" font-size="16" fill="#1E4D3B">S</text>
+  <rect x="68" y="55" width="52" height="9" rx="3" fill="#D9D9D9"/>
+  <rect x="68" y="70" width="86" height="8" rx="3" fill="#EDEDED"/>
+  <rect x="300" y="58" width="66" height="24" rx="12" fill="none" stroke="#CFCFCF"/>
+
+  <!-- headline -->
+  <rect x="24" y="116" width="300" height="26" rx="4" fill="#E6E6E6"/>
+  <rect x="24" y="150" width="242" height="26" rx="4" fill="#E6E6E6"/>
+  <rect x="24" y="192" width="330" height="10" rx="3" fill="#EDEDED"/>
+  <rect x="24" y="210" width="286" height="10" rx="3" fill="#EDEDED"/>
+
+  <!-- search -->
+  <rect x="24" y="242" width="342" height="52" rx="12" fill="none" stroke="#CFCFCF" stroke-width="1.5"/>
+  <circle cx="48" cy="268" r="7" fill="none" stroke="#9A9A9A" stroke-width="1.5"/>
+  <line x1="53" y1="273" x2="58" y2="278" stroke="#9A9A9A" stroke-width="1.5"/>
+  <rect x="66" y="263" width="128" height="10" rx="3" fill="#EDEDED"/>
+
+  <!-- mode chips -->
+  <rect x="24" y="314" width="120" height="10" rx="3" fill="#D9D9D9"/>
+  <rect x="24" y="336" width="132" height="40" rx="20" fill="none" stroke="#1E4D3B" stroke-width="1.5"/>
+  <circle cx="48" cy="356" r="7" fill="none" stroke="#1E4D3B" stroke-width="1.5"/>
+  <rect x="64" y="351" width="76" height="10" rx="3" fill="#C9D6CE"/>
+  <rect x="168" y="336" width="164" height="40" rx="20" fill="none" stroke="#CFCFCF"/>
+  <circle cx="192" cy="356" r="7" fill="none" stroke="#9A9A9A" stroke-width="1.5"/>
+  <rect x="208" y="351" width="106" height="10" rx="3" fill="#EDEDED"/>
+
+  <!-- section header -->
+  <rect x="24" y="410" width="188" height="16" rx="4" fill="#D9D9D9"/>
+  <rect x="300" y="408" width="66" height="12" rx="3" fill="#C9D6CE"/>
+
+  <!-- recommendation card 1 (horizontal) -->
+  <rect x="24" y="440" width="342" height="124" rx="14" fill="none" stroke="#E0E0E0" stroke-width="1.5"/>
+  <rect x="36" y="452" width="96" height="96" rx="10" fill="#EFEFEF"/>
+  <line x1="36" y1="452" x2="132" y2="548" stroke="#E2E2E2"/>
+  <line x1="132" y1="452" x2="36" y2="548" stroke="#E2E2E2"/>
+  <rect x="148" y="456" width="164" height="13" rx="3" fill="#D9D9D9"/>
+  <rect x="148" y="480" width="88" height="9" rx="3" fill="#EDEDED"/>
+  <rect x="148" y="500" width="104" height="11" rx="3" fill="#C9D6CE"/>
+  <rect x="148" y="524" width="150" height="8" rx="3" fill="#EDEDED"/>
+  <rect x="148" y="546" width="56" height="10" rx="3" fill="#EDEDED"/>
+  <rect x="212" y="546" width="62" height="10" rx="3" fill="#EDEDED"/>
+
+  <!-- recommendation card 2 -->
+  <rect x="24" y="580" width="342" height="124" rx="14" fill="none" stroke="#E0E0E0" stroke-width="1.5"/>
+  <rect x="36" y="592" width="96" height="96" rx="10" fill="#EFEFEF"/>
+  <line x1="36" y1="592" x2="132" y2="688" stroke="#E2E2E2"/>
+  <line x1="132" y1="592" x2="36" y2="688" stroke="#E2E2E2"/>
+  <rect x="148" y="596" width="148" height="13" rx="3" fill="#D9D9D9"/>
+  <rect x="148" y="620" width="76" height="9" rx="3" fill="#EDEDED"/>
+  <rect x="148" y="640" width="92" height="11" rx="3" fill="#C9D6CE"/>
+  <rect x="148" y="664" width="150" height="8" rx="3" fill="#EDEDED"/>
+  <rect x="148" y="686" width="56" height="10" rx="3" fill="#EDEDED"/>
+  <rect x="212" y="686" width="62" height="10" rx="3" fill="#EDEDED"/>
+
+  <!-- data note -->
+  <rect x="24" y="724" width="342" height="52" rx="12" fill="#F2F5F2"/>
+  <rect x="38" y="740" width="14" height="14" rx="7" fill="none" stroke="#1E4D3B" stroke-width="1.5"/>
+  <rect x="62" y="738" width="270" height="8" rx="3" fill="#DDE5DF"/>
+  <rect x="62" y="754" width="214" height="8" rx="3" fill="#DDE5DF"/>
+
+  <!-- annotations -->
+  <text x="24" y="806" font-size="10" fill="#9A9A9A">1 brand · 2 judul + pengantar · 3 pencarian · 4 chip kebutuhan</text>
+  <text x="24" y="822" font-size="10" fill="#9A9A9A">5 rekomendasi + alasan · 6 lihat semua · 7 catatan data contoh</text>
+</svg>
